@@ -22,9 +22,7 @@ function Card() {
         </Link>
         <p className="text-base lg:text-lg font-light leading-tight text-[#626262]">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-          rerum reprehenderit quaerat soluta et exercitationem voluptatem
-          corporis doloremque dicta est maxime voluptas dolorum, mollitia quod
-          cupiditate temporibus alias aliquam voluptate?
+          rerum reprehenderit quaerat soluta...
         </p>
         <Link href="/" className="border-b border-b-red-500 w-max py-[2px]">Read More</Link>
       </div>
